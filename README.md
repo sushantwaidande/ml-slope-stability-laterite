@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ml-slope-stability-laterite.git
+git clone https://github.com/sushantwaidande/ml-slope-stability-laterite.git
 cd ml-slope-stability-laterite
 
 # Install dependencies
