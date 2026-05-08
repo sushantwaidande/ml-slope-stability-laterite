@@ -42,7 +42,7 @@ ml-slope-stability-laterite/
 │   ├── fig6_correlation_heatmap.png
 │   └── fig7_actual_vs_predicted.png
 ├── paper/
-│   └── Geosciences_Augmented_ML_Final.docx
+│   └── paper/Comparative Evaluation of Machine Learning Models for Pre-dicting Monsoon-Induced Slope Failures in Lateritic Terrain A Data Augmentation Approach.docx
 └── docs/
     └── METHODOLOGY.md           # Detailed methodology documentation
 ```
